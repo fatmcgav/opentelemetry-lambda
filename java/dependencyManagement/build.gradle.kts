@@ -18,7 +18,7 @@ val DEPENDENCIES = listOf(
     "com.amazonaws:aws-lambda-java-core:1.4.0",
     "com.amazonaws:aws-lambda-java-events:3.16.1",
     "com.squareup.okhttp3:okhttp:5.3.2",
-    "io.opentelemetry.javaagent:opentelemetry-javaagent:2.28.1",
+    "io.opentelemetry.javaagent:opentelemetry-javaagent:2.29.0",
     "io.opentelemetry:opentelemetry-sdk-extension-aws:1.19.0",
     "io.opentelemetry.contrib:opentelemetry-aws-resources:1.57.0-alpha",
 )
